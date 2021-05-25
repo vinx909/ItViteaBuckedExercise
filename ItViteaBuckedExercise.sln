@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buckets", "Buckets\Buckets.csproj", "{8BF1507F-B9EB-4AFD-94F8-5363EFA624A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BucketsTest", "BucketsTest\BucketsTest.csproj", "{98BABA5E-6352-4DCF-BE24-95AF539050F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BF1507F-B9EB-4AFD-94F8-5363EFA624A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF1507F-B9EB-4AFD-94F8-5363EFA624A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF1507F-B9EB-4AFD-94F8-5363EFA624A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF1507F-B9EB-4AFD-94F8-5363EFA624A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98BABA5E-6352-4DCF-BE24-95AF539050F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98BABA5E-6352-4DCF-BE24-95AF539050F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98BABA5E-6352-4DCF-BE24-95AF539050F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98BABA5E-6352-4DCF-BE24-95AF539050F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {267E2F4B-D06B-498C-8216-FDB71B275F8D}
+	EndGlobalSection
+EndGlobal
